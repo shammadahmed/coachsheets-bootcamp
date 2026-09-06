@@ -1,0 +1,296 @@
+[
+    {
+        "title": "Coaching Foundations",
+        "slug": "coaching-foundations",
+        "description": "What coaching is, what it isn't, and the core skills every coach needs.",
+        "lessons": [
+            {
+                "title": "What Is Life Coaching?",
+                "slug": "what-is-life-coaching",
+                "type": "article"
+            },
+            {
+                "title": "The ICF Core Competencies",
+                "slug": "icf-core-competencies",
+                "type": "article"
+            },
+            {
+                "title": "Active Listening & Powerful Questioning",
+                "slug": "active-listening-powerful-questioning",
+                "type": "article"
+            },
+            {
+                "title": "Coaching vs. Therapy: Ethical Boundaries",
+                "slug": "coaching-vs-therapy",
+                "type": "article"
+            },
+            {
+                "title": "The Coaching Agreement",
+                "slug": "coaching-agreement",
+                "type": "article"
+            },
+            {
+                "title": "Goal-Setting Theory: SMART, GROW, and Beyond",
+                "slug": "goal-setting-theory",
+                "type": "article"
+            },
+            {
+                "title": "The First Session: Intake & Discovery",
+                "slug": "first-session-intake-discovery",
+                "type": "article"
+            },
+            {
+                "title": "Knowledge Check: Coaching Foundations",
+                "slug": "knowledge-check-foundations",
+                "type": "exercise"
+            },
+            {
+                "title": "Project: Coaching Philosophy Statement",
+                "slug": "project-coaching-philosophy",
+                "type": "project"
+            }
+        ]
+    },
+    {
+        "title": "Coaching Frameworks & Models",
+        "slug": "coaching-frameworks-models",
+        "description": "The thinking tools that structure coaching conversations.",
+        "lessons": [
+            {
+                "title": "The GROW Model Deep Dive",
+                "slug": "grow-model-deep-dive",
+                "type": "article"
+            },
+            {
+                "title": "Motivational Interviewing for Coaches",
+                "slug": "motivational-interviewing",
+                "type": "article"
+            },
+            {
+                "title": "Cognitive Behavioral Coaching (CBC)",
+                "slug": "cognitive-behavioral-coaching",
+                "type": "article"
+            },
+            {
+                "title": "Solution-Focused Brief Coaching",
+                "slug": "solution-focused-brief-coaching",
+                "type": "article"
+            },
+            {
+                "title": "Appreciative Inquiry & Strengths-Based Coaching",
+                "slug": "appreciative-inquiry",
+                "type": "article"
+            },
+            {
+                "title": "Values-Based Coaching",
+                "slug": "values-based-coaching",
+                "type": "article"
+            },
+            {
+                "title": "Narrative Coaching & Story Work",
+                "slug": "narrative-coaching",
+                "type": "article"
+            },
+            {
+                "title": "Knowledge Check: Frameworks",
+                "slug": "knowledge-check-frameworks",
+                "type": "exercise"
+            },
+            {
+                "title": "Project: Framework Application Portfolio",
+                "slug": "project-framework-portfolio",
+                "type": "project"
+            }
+        ]
+    },
+    {
+        "title": "Digital Coaching Practice",
+        "slug": "digital-coaching-practice",
+        "description": "Using digital tools to scale your coaching without losing the human connection.",
+        "lessons": [
+            {
+                "title": "The Digital Coaching Paradigm",
+                "slug": "digital-coaching-paradigm",
+                "type": "article"
+            },
+            {
+                "title": "Worksheet Design Principles",
+                "slug": "worksheet-design-principles",
+                "type": "article"
+            },
+            {
+                "title": "Building Your First Worksheet",
+                "slug": "building-first-worksheet",
+                "type": "project"
+            },
+            {
+                "title": "Automated Programs & Drip Sequences",
+                "slug": "automated-programs-drip",
+                "type": "article"
+            },
+            {
+                "title": "Reminders, Nudges, and Follow-up",
+                "slug": "reminders-nudges-followup",
+                "type": "article"
+            },
+            {
+                "title": "Ethics of Digital Coaching & AI",
+                "slug": "ethics-digital-coaching-ai",
+                "type": "article"
+            },
+            {
+                "title": "Knowledge Check: Digital Practice",
+                "slug": "knowledge-check-digital-practice",
+                "type": "exercise"
+            },
+            {
+                "title": "Project: Build a Complete Intake System",
+                "slug": "project-intake-system",
+                "type": "project"
+            }
+        ]
+    },
+    {
+        "title": "Session Mastery",
+        "slug": "session-mastery",
+        "description": "Running effective sessions, tracking progress, and adapting your approach.",
+        "lessons": [
+            {
+                "title": "Pre-Session Preparation",
+                "slug": "pre-session-preparation",
+                "type": "article"
+            },
+            {
+                "title": "During the Session: Structure & Flow",
+                "slug": "during-session-structure",
+                "type": "article"
+            },
+            {
+                "title": "Post-Session: Notes, Assignments, Follow-up",
+                "slug": "post-session-notes",
+                "type": "article"
+            },
+            {
+                "title": "Reading AI Summaries Critically",
+                "slug": "reading-ai-summaries",
+                "type": "article"
+            },
+            {
+                "title": "Tracking Client Progress Over Time",
+                "slug": "tracking-client-progress",
+                "type": "article"
+            },
+            {
+                "title": "When Clients Get Stuck",
+                "slug": "when-clients-get-stuck",
+                "type": "article"
+            },
+            {
+                "title": "Knowledge Check: Session Mastery",
+                "slug": "knowledge-check-session-mastery",
+                "type": "exercise"
+            },
+            {
+                "title": "Project: Mock Session & Session Report",
+                "slug": "project-mock-session",
+                "type": "project"
+            }
+        ]
+    },
+    {
+        "title": "Building Your Coaching Practice",
+        "slug": "building-coaching-practice",
+        "description": "The business of coaching \u2014 niches, marketing, and sustainable operations.",
+        "lessons": [
+            {
+                "title": "Defining Your Coaching Niche",
+                "slug": "defining-coaching-niche",
+                "type": "article"
+            },
+            {
+                "title": "Coaching Packages & Pricing",
+                "slug": "coaching-packages-pricing",
+                "type": "article"
+            },
+            {
+                "title": "Client Onboarding & Contracts",
+                "slug": "client-onboarding-contracts",
+                "type": "article"
+            },
+            {
+                "title": "Marketing for Coaches",
+                "slug": "marketing-for-coaches",
+                "type": "article"
+            },
+            {
+                "title": "Group Coaching & Programs",
+                "slug": "group-coaching-programs",
+                "type": "article"
+            },
+            {
+                "title": "Knowledge Check: Practice Building",
+                "slug": "knowledge-check-practice-building",
+                "type": "exercise"
+            },
+            {
+                "title": "Project: Coaching Practice Blueprint",
+                "slug": "project-practice-blueprint",
+                "type": "project"
+            }
+        ]
+    },
+    {
+        "title": "Advanced Topics & Specialization",
+        "slug": "advanced-topics-specialization",
+        "description": "Deepening your skills and specializing for specific populations.",
+        "lessons": [
+            {
+                "title": "Cross-Cultural Coaching",
+                "slug": "cross-cultural-coaching",
+                "type": "article"
+            },
+            {
+                "title": "Coaching Through Transitions",
+                "slug": "coaching-through-transitions",
+                "type": "article"
+            },
+            {
+                "title": "Positive Psychology in Coaching",
+                "slug": "positive-psychology-coaching",
+                "type": "article"
+            },
+            {
+                "title": "Neuroscience-Informed Coaching",
+                "slug": "neuroscience-informed-coaching",
+                "type": "article"
+            },
+            {
+                "title": "Group Dynamics & Team Coaching",
+                "slug": "group-dynamics-team-coaching",
+                "type": "article"
+            },
+            {
+                "title": "Your Continuing Development",
+                "slug": "continuing-development",
+                "type": "article"
+            },
+            {
+                "title": "Project: Specialization Deep-Dive",
+                "slug": "project-specialization-deep-dive",
+                "type": "project"
+            }
+        ]
+    },
+    {
+        "title": "Capstone: Certified Digital Practitioner",
+        "slug": "capstone-certified-digital-practitioner",
+        "description": "Demonstrate comprehensive competence across all modules.",
+        "lessons": [
+            {
+                "title": "Capstone: Complete Coaching System",
+                "slug": "capstone-complete-coaching-system",
+                "type": "project"
+            }
+        ]
+    }
+]

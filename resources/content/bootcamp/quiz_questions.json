@@ -1,0 +1,722 @@
+[
+    {
+        "id": 1,
+        "scenario": "A client you've been working with for three months mentions during a session that they've been feeling 'hopeless' and have started 'not wanting to wake up' in the mornings.",
+        "question": "What is the most ethically appropriate response?",
+        "options": [
+            "Explore what 'hopeless' means to them and continue the coaching session as normal.",
+            "Increase session frequency to twice a week to provide more support.",
+            "Assign a thought record worksheet to help them reframe their hopeless feelings.",
+            "Pause the coaching, express genuine concern, and refer them to a licensed mental health professional or crisis line."
+        ],
+        "correct_index": 3
+    },
+    {
+        "id": 2,
+        "scenario": "A new coach says: 'I'm great at helping people because I always know what they should do. I give my clients clear advice and they appreciate it.'",
+        "question": "Which ICF Core Competency is this coach most struggling with?",
+        "options": [
+            "Competency 2: Embodies a Coaching Mindset \u2014 the coach is treating the client as needing the coach's expertise rather than as resourceful and whole.",
+            "Competency 3: Establishes and Maintains Agreements",
+            "Competency 1: Demonstrates Ethical Practice",
+            "Competency 8: Facilitates Client Growth"
+        ],
+        "correct_index": 0
+    },
+    {
+        "id": 3,
+        "scenario": "During a session, a client is talking about a difficult situation at work. You notice their voice cracks slightly when they say 'it's fine, I'm over it.' You also notice they've mentioned this same colleague three weeks in a row.",
+        "question": "What level of listening are you demonstrating if you notice both the voice crack AND the recurring pattern across sessions?",
+        "options": [
+            "Level 1: Internal Listening \u2014 you're tracking your own reactions",
+            "Level 3: Global Listening \u2014 you're tracking words, tone, energy, body language, and patterns across the whole engagement",
+            "Level 2: Focused Listening \u2014 you're paying full attention to their words",
+            "Level 4: Analytical Listening \u2014 you're diagnosing the client's psychological state"
+        ],
+        "correct_index": 1
+    },
+    {
+        "id": 4,
+        "scenario": "A client says: 'I just feel stuck in my career. I don't know what I want to do next.'",
+        "question": "Which of the following is the most powerful coaching question?",
+        "options": [
+            "Have you considered looking at job listings online?",
+            "Why do you think you feel stuck?",
+            "Do you think you should see a career counselor?",
+            "If you woke up tomorrow and your career was exactly where you wanted it to be, what would your day look like?"
+        ],
+        "correct_index": 3
+    },
+    {
+        "id": 5,
+        "scenario": "A coach starts a session by asking 'So, what do you want to talk about today?' without any prior agreement about the coaching engagement's goals, scope, or boundaries.",
+        "question": "What is the most likely consequence of skipping the coaching agreement?",
+        "options": [
+            "The session will be more spontaneous and creative without structure.",
+            "The coach will save time that can be used for more coaching content.",
+            "The client will feel more relaxed and open up more quickly.",
+            "Sessions will meander without clear direction, and neither coach nor client will know what they're working toward."
+        ],
+        "correct_index": 3
+    },
+    {
+        "id": 6,
+        "scenario": "A client sets a goal: 'I want to be more confident at work.' They've been visualizing themselves being confident every morning but haven't changed any behaviors. After three weeks, nothing has changed.",
+        "question": "According to the WOOP model (Wish, Outcome, Obstacle, Plan), what is this client missing?",
+        "options": [
+            "They're missing the Obstacle and Plan \u2014 they're only fantasizing about the outcome without identifying what gets in the way and creating an if-then plan.",
+            "They're missing the Wish \u2014 they haven't clearly defined what they want.",
+            "They're missing the Outcome \u2014 they haven't visualized the result clearly enough.",
+            "They're missing SMART criteria \u2014 the goal isn't measurable."
+        ],
+        "correct_index": 0
+    },
+    {
+        "id": 7,
+        "scenario": "A client tells you: 'I know I need to exercise more, but I just can't seem to make myself do it. I think there's something wrong with me. Can you fix me?'",
+        "question": "Which response best reflects the foundational assumption of coaching?",
+        "options": [
+            "'There's nothing wrong with you. You're creative, resourceful, and whole \u2014 let's explore what's getting in the way and what you truly want here.'",
+            "'Let me prescribe you a step-by-step exercise plan that will fix this.'",
+            "'I think you might need therapy to address your motivation issues.'",
+            "'You should try a different type of exercise that you enjoy more.'"
+        ],
+        "correct_index": 0
+    },
+    {
+        "id": 8,
+        "scenario": "A coach conducts a session where the client has a major insight about their values. The coach feels great about the session. But the client doesn't complete any action steps afterward, and nothing changes before the next session.",
+        "question": "Which pillar of coaching was missing from this engagement?",
+        "options": [
+            "Awareness \u2014 the client didn't gain enough insight",
+            "Action \u2014 the coach should have prescribed specific steps",
+            "Accountability \u2014 the insight wasn't translated into a committed action with follow-up",
+            "Trust \u2014 the client didn't feel safe enough to follow through"
+        ],
+        "correct_index": 2
+    },
+    {
+        "id": 9,
+        "scenario": "A client says during a session: 'Sometimes I think everyone would be better off without me. I've been having thoughts about not being here anymore.'",
+        "question": "What should you do immediately?",
+        "options": [
+            "Stop the coaching conversation, express concern for their safety, and connect them with a crisis line or emergency services immediately.",
+            "Ask them to elaborate on these thoughts and explore what they mean.",
+            "Assign a gratitude journal worksheet to help shift their perspective.",
+            "Schedule an extra coaching session for tomorrow to check in."
+        ],
+        "correct_index": 0
+    },
+    {
+        "id": 10,
+        "scenario": "A coach-in-training is practicing their listening skills. They paraphrase what the client says by repeating: 'So you're saying you're frustrated with your boss.' The client responds: 'No, that's not it at all. It's more like I'm disappointed in myself for not speaking up.'",
+        "question": "What listening skill was the coach attempting, and what level of it were they at?",
+        "options": [
+            "Reflective listening \u2014 the coach was at the 'rephrase' level but missed the underlying meaning. A Level 3 reflection would capture: 'It sounds like you're not just frustrated with your boss \u2014 you're questioning why you keep staying silent.'",
+            "Affirmation \u2014 the coach was affirming incorrectly",
+            "Open questioning \u2014 the coach should have asked a question instead",
+            "Summarizing \u2014 the coach was trying to summarize but did it wrong"
+        ],
+        "correct_index": 0
+    },
+    {
+        "id": 11,
+        "scenario": "You're using the GROW model with a client. They've clearly described their current situation (Reality) and you've explored several possible paths forward (Options). Now the client says: 'I guess I could try any of those. I'll see how it goes.'",
+        "question": "Which stage of GROW has NOT been completed, and what should you do?",
+        "options": [
+            "Goal \u2014 you need to go back and clarify what they want to achieve",
+            "Options \u2014 you need to generate more possibilities before moving forward",
+            "Reality \u2014 you need to explore the current situation more deeply",
+            "Will \u2014 the client hasn't committed to a specific action. You need to ask: 'Which option will you commit to, and by when?'"
+        ],
+        "correct_index": 3
+    },
+    {
+        "id": 12,
+        "scenario": "A client has been talking about quitting smoking for months but keeps saying 'I know I should, but I'm not ready yet. Maybe next month.' They haven't taken any steps toward quitting.",
+        "question": "According to the Stages of Change model, which stage is this client in, and what's the appropriate coaching approach?",
+        "options": [
+            "Contemplation \u2014 they're aware of the need to change but ambivalent. Use Motivational Interviewing techniques to explore their ambivalence rather than pushing action.",
+            "Precontemplation \u2014 confront them about the health risks",
+            "Preparation \u2014 help them set a quit date",
+            "Action \u2014 create an implementation plan"
+        ],
+        "correct_index": 0
+    },
+    {
+        "id": 13,
+        "scenario": "A coach wants to use Cognitive Behavioral Coaching with a client who says: 'I always fail at everything. I'm going to bomb this presentation and everyone will see I'm an imposter.'",
+        "question": "Which cognitive distortion is the client demonstrating, and what is the ethical boundary for CBC?",
+        "options": [
+            "Mind-reading \u2014 the coach should help them predict what people will actually think",
+            "Personalization \u2014 the coach should tell them it's not about them",
+            "All-or-nothing thinking and catastrophizing. CBC can help reframe this for professional challenges, but if the client has clinical anxiety, refer to therapy.",
+            "Emotional reasoning \u2014 the coach should tell them their feelings aren't facts"
+        ],
+        "correct_index": 2
+    },
+    {
+        "id": 14,
+        "scenario": "A client comes to you saying: 'I've been in therapy for two years working on my past, but I still don't know what I want for my future. My therapist suggested I try coaching.'",
+        "question": "You decide to use Solution-Focused Brief Coaching. Which technique would you use to help them shift from past-focused to future-focused thinking?",
+        "options": [
+            "Ask them to analyze why they've been stuck for two years",
+            "Ask the Miracle Question: 'If you woke up tomorrow and this was resolved, what would be the first thing you noticed that was different?'",
+            "Have them complete a thought record about their therapy experience",
+            "Explore their childhood patterns that led to this stuckness"
+        ],
+        "correct_index": 1
+    },
+    {
+        "id": 15,
+        "scenario": "A client is an executive who constantly focuses on what's going wrong: team conflicts, missed targets, employee turnover. Every session starts with a list of problems.",
+        "question": "Which framework would be most effective for shifting this client's perspective, and what is its core mechanism?",
+        "options": [
+            "Appreciative Inquiry (4-D Cycle) \u2014 shift from 'what's broken?' to 'what's working well?' starting with the Discover phase",
+            "GROW model \u2014 structure the conversation around goals",
+            "Cognitive Behavioral Coaching \u2014 reframe their negative thoughts",
+            "Solution-Focused Brief Coaching \u2014 focus on solutions not problems"
+        ],
+        "correct_index": 0
+    },
+    {
+        "id": 16,
+        "scenario": "A client has a successful career, a good salary, and a loving family. They tell you: 'Everything looks great on paper, but I feel empty. I don't know what's missing.'",
+        "question": "Which coaching framework is most likely to help this client, and why?",
+        "options": [
+            "Values-based coaching \u2014 their 'emptiness' likely stems from a misalignment between their daily life and their core values. Clarifying values can reveal the gap.",
+            "GROW model \u2014 they need to set goals for what's missing",
+            "Solution-Focused Brief Coaching \u2014 focus on what they want instead of the emptiness",
+            "Cognitive Behavioral Coaching \u2014 reframe the 'emptiness' as a cognitive distortion"
+        ],
+        "correct_index": 0
+    },
+    {
+        "id": 17,
+        "scenario": "A client says: 'I am such a procrastinator. I've always been lazy. That's just who I am.'",
+        "question": "Using a narrative coaching approach, how would you help the client 'externalize' this problem?",
+        "options": [
+            "Tell them they're not actually lazy and list their accomplishments",
+            "Help them separate the problem from their identity: 'So there's something called procrastination that visits you sometimes. When does it show up, and when does it NOT show up?'",
+            "Assign a habit-tracking worksheet to prove they're not lazy",
+            "Challenge them directly: 'I don't think you're lazy. Let me tell you why.'"
+        ],
+        "correct_index": 1
+    },
+    {
+        "id": 18,
+        "scenario": "A client needs to make a decision about whether to stay in their current job or start their own business. They're analytical and keep listing pros and cons but can't decide.",
+        "question": "Which framework would be most appropriate, and what specific tool would you use?",
+        "options": [
+            "Decision Matrix \u2014 help them weight their values and criteria, then score each option against those criteria to surface what matters most",
+            "GROW model \u2014 use it to explore their Reality more deeply",
+            "Solution-Focused Brief Coaching \u2014 ask the Miracle Question",
+            "Appreciative Inquiry \u2014 focus on what's working in their current job"
+        ],
+        "correct_index": 0
+    },
+    {
+        "id": 19,
+        "scenario": "A client in Motivational Interviewing says: 'I kind of want to start my own business, but my job pays really well and the security is hard to give up. My partner thinks I should stay.'",
+        "question": "Is this 'change talk' or 'sustain talk', and what should the coach do?",
+        "options": [
+            "Both. 'I kind of want to start my own business' is change talk; 'the security is hard to give up' is sustain talk. The coach should reflect both sides and explore the ambivalence.",
+            "Change talk \u2014 the coach should push them to commit to starting the business",
+            "Sustain talk \u2014 the coach should challenge their resistance",
+            "Neither \u2014 the coach should ignore this and move to action planning"
+        ],
+        "correct_index": 0
+    },
+    {
+        "id": 20,
+        "scenario": "A client tells you: 'I have really bad imposter syndrome. Every time I get praised at work, I think they're going to figure out I'm a fraud. It's getting worse.'",
+        "question": "Which combination of frameworks would be most effective for this client?",
+        "options": [
+            "GROW model alone \u2014 set a goal to overcome imposter syndrome",
+            "Solution-Focused Brief Coaching alone \u2014 focus on when they DON'T feel like an imposter",
+            "Cognitive Behavioral Coaching (to address the 'I'm a fraud' thought pattern) combined with Values-Based Coaching (to ground them in what they actually stand for)",
+            "Narrative coaching alone \u2014 re-author their story"
+        ],
+        "correct_index": 2
+    },
+    {
+        "id": 21,
+        "scenario": "A coach spends the first 20 minutes of every session asking: 'How was your week? Did you complete the worksheet? What happened with that thing you mentioned last time?'",
+        "question": "How could digital coaching tools best reduce this wasted session time?",
+        "options": [
+            "By replacing the coaching sessions entirely with automated worksheets",
+            "By using AI to generate the session agenda automatically",
+            "By sending more frequent reminders to the client so they don't forget",
+            "By sending worksheets asynchronously before the session, so the coach reviews the data beforehand and starts the session already knowing what happened \u2014 diving straight into deeper work."
+        ],
+        "correct_index": 3
+    },
+    {
+        "id": 22,
+        "scenario": "A coach creates a worksheet with 25 questions covering 8 different topics: goals, values, habits, relationships, career, health, finances, and spirituality.",
+        "question": "What worksheet design principle is being violated, and what is the likely result?",
+        "options": [
+            "Mobile-first design \u2014 the worksheet won't display properly on phones",
+            "Element type matching \u2014 they need more interactive elements",
+            "Progressive disclosure \u2014 hard questions should come first",
+            "One focus per question \u2014 the worksheet covers too many topics. Clients will feel overwhelmed and either skip questions, give shallow answers, or abandon it entirely."
+        ],
+        "correct_index": 3
+    },
+    {
+        "id": 23,
+        "scenario": "You're building a worksheet where clients need to rate their satisfaction across 8 life areas (career, finances, health, relationships, etc.) on a scale, then reflect on the two lowest areas.",
+        "question": "Which combination of element types would be most appropriate?",
+        "options": [
+            "All textarea questions \u2014 let them write freely about each area",
+            "A Wheel of Life element (for visual rating across areas) followed by textarea questions for reflection on the lowest-scoring areas",
+            "A Likert scale for each area, then multiple choice for the reflection",
+            "Cards element for sorting life areas by importance"
+        ],
+        "correct_index": 1
+    },
+    {
+        "id": 24,
+        "scenario": "You're designing a 12-week onboarding program for new executive coaching clients. Week 1 is intake, Week 2 is assessment, Weeks 3-10 are themed coaching worksheets, Week 11 is a progress review, and Week 12 is a reflection and next-steps worksheet.",
+        "question": "Which program cadence type should you use, and why?",
+        "options": [
+            "fixed_offset \u2014 send each worksheet a fixed number of days after the previous one, giving flexibility if a client starts mid-week",
+            "Random \u2014 send worksheets at unpredictable times to keep the client engaged",
+            "Manual \u2014 send each worksheet yourself when you feel the client is ready",
+            "fixed_weekly \u2014 send on a specific day of the week (e.g., every Monday) so the client builds a predictable routine around receiving worksheets"
+        ],
+        "correct_index": 3
+    },
+    {
+        "id": 25,
+        "scenario": "A client consistently completes their worksheets but always at 11 PM the night before the session. The coach sends reminders 2 days before, 1 day before, and the morning of the session. The client says the reminders feel like 'nagging.'",
+        "question": "According to the BJ Fogg Behavior Model (B = M \u00d7 A \u00d7 P), what is likely happening, and how should you adjust?",
+        "options": [
+            "Motivation is too high \u2014 reduce the number of reminders",
+            "The client has low ability at the reminder time (11 PM is when they have time) and the prompts (reminders) are poorly timed. Send fewer reminders (one, well-timed) and reduce the worksheet's difficulty to increase ability.",
+            "The client needs more motivation \u2014 send stronger, more urgent reminders",
+            "The behavior model doesn't apply to worksheet completion"
+        ],
+        "correct_index": 1
+    },
+    {
+        "id": 26,
+        "scenario": "A coach sets up AI summaries for their clients' worksheet submissions. One client submits a worksheet describing difficulty sleeping, loss of appetite, and crying at work. The AI summary says: 'Client appears to be experiencing depressive symptoms. Recommend assessment for clinical depression.'",
+        "question": "What is the correct way to handle this AI summary?",
+        "options": [
+            "Share the AI's assessment with the client and recommend they see a psychiatrist",
+            "Use the AI summary as a signal to pay closer attention, but form your own judgment by reading the full submission. The AI has overstepped its role \u2014 it should summarize patterns, not diagnose. If you confirm red flags through your own reading, refer to therapy.",
+            "Ignore the AI summary entirely \u2014 it's not reliable",
+            "Tell the client the AI thinks they're depressed"
+        ],
+        "correct_index": 1
+    },
+    {
+        "id": 27,
+        "scenario": "A coach in the UK has clients in both the UK and the EU. They store client names, email addresses, session notes, and worksheet responses in CoachSheets.",
+        "question": "What GDPR obligation is most relevant to this coaching practice?",
+        "options": [
+            "The coach must obtain explicit consent from clients to process their personal data, allow clients to request data export and deletion, and ensure data is stored with appropriate security (encryption).",
+            "GDPR doesn't apply to coaching practices \u2014 it only applies to large companies",
+            "The coach must delete all client data after each session",
+            "GDPR only requires having a privacy policy on the website"
+        ],
+        "correct_index": 0
+    },
+    {
+        "id": 28,
+        "scenario": "You're designing a 4-week onboarding program for new life coaching clients. Which of the following sequences is most pedagogically sound?",
+        "question": "Which program structure follows the principles of progressive disclosure and scaffolded learning?",
+        "options": [
+            "Week 1: 15-question deep-dive on childhood patterns; Week 2: 20-question values assessment; Week 3: action plan; Week 4: reflection",
+            "Week 1-4: Same worksheet repeated weekly for consistency",
+            "Week 1: Nothing (let them settle); Week 2: All assessments at once; Week 3: Nothing; Week 4: Everything",
+            "Week 1: Light intake (Wheel of Life + goals textarea, 5 questions); Week 2: Values assessment (card sort, 8 questions); Week 3: Action planning (goals + obstacles, 6 questions); Week 4: Reflection (textarea, 3 questions)"
+        ],
+        "correct_index": 3
+    },
+    {
+        "id": 29,
+        "scenario": "A client hasn't completed their worksheet for 10 days. The due date was 5 days ago. You've sent 4 reminders already, each one more urgent than the last: 'Reminder!', 'Second reminder!', 'URGENT: Please complete!', 'FINAL WARNING'.",
+        "question": "What is wrong with this reminder strategy, and what should you do instead?",
+        "options": [
+            "The reminders are too infrequent \u2014 send them daily",
+            "The reminders are fine \u2014 clients need firm boundaries",
+            "The reminders use guilt and escalating pressure, which creates resistance. Instead, send ONE supportive message: 'Hi \u2014 noticed the worksheet is still pending. No pressure at all. Is there anything getting in the way? Happy to adjust if the timing doesn't work.'",
+            "Stop sending reminders entirely \u2014 the client clearly doesn't care"
+        ],
+        "correct_index": 2
+    },
+    {
+        "id": 30,
+        "scenario": "A coach designs a worksheet where the first question is: 'Describe your deepest fears and how they've held you back throughout your life. Minimum 500 words.' The remaining questions are lighter: rating satisfaction, choosing values, and setting a simple goal.",
+        "question": "What worksheet design principle has been violated?",
+        "options": [
+            "Progressive disclosure \u2014 the hardest, most vulnerable question is first. Start with easy, low-stakes questions to build comfort, then move to deeper reflection.",
+            "Mobile-first design \u2014 500 words is too long for a phone",
+            "Element type matching \u2014 fears should use a scale, not textarea",
+            "One focus per question \u2014 the question covers too many topics"
+        ],
+        "correct_index": 0
+    },
+    {
+        "id": 31,
+        "scenario": "You have a coaching session in 30 minutes. The client submitted a worksheet yesterday, and an AI summary is available. You also have notes from the last two sessions.",
+        "question": "What is the most effective pre-session preparation sequence?",
+        "options": [
+            "Read the client's full worksheet submission first, then the AI summary to see if it aligns with your own reading, then review last session's notes for themes. Prepare 2-3 questions based on what emerges.",
+            "Skim the AI summary only \u2014 it covers everything you need",
+            "Just review last session's notes \u2014 the worksheet isn't important",
+            "Read the AI summary and use it to write the session agenda without reading the raw submission"
+        ],
+        "correct_index": 0
+    },
+    {
+        "id": 32,
+        "scenario": "A coach starts every session with: 'How are you? How was your week? Did you do the homework?' The client gives a 10-minute update, and then the coach says: 'Okay, so what do you want to work on today?'",
+        "question": "How should the session opening be improved to follow the session arc structure?",
+        "options": [
+            "Skip the check-in entirely and get straight to work",
+            "Let the client talk for as long as they need \u2014 it builds rapport",
+            "Ask more detailed questions during the check-in to fully understand the week",
+            "Keep the check-in brief (2-3 min), then establish a clear session agreement: 'What would make this session valuable for you today?' \u2014 directing the session toward the client's desired outcome rather than drifting."
+        ],
+        "correct_index": 3
+    },
+    {
+        "id": 33,
+        "scenario": "A coach writes the following session note: 'Client is clearly narcissistic and manipulative. She was crying during the session which seemed performative. She's not really committed to change and is just looking for attention.'",
+        "question": "What is wrong with these session notes?",
+        "options": [
+            "They're too short \u2014 session notes should be more detailed",
+            "They contain clinical diagnoses (narcissistic), subjective judgments stated as fact (performative, not committed), and assumptions about motivation (looking for attention). Notes should record observable behavior and themes, not the coach's personal judgments.",
+            "They should be written in a different format (bullet points vs paragraphs)",
+            "They should include the client's full worksheet responses"
+        ],
+        "correct_index": 1
+    },
+    {
+        "id": 34,
+        "scenario": "An AI summary says: 'Client expressed satisfaction with progress on their exercise goal. They mentioned feeling more energetic and positive. No significant concerns noted.' You read the full submission and notice the client also wrote: 'I've been exercising but I'm still drinking every night and I hate myself for it.'",
+        "question": "What does this reveal about AI summaries, and what should you do?",
+        "options": [
+            "The AI is right \u2014 the drinking isn't a significant concern",
+            "The AI missed a major red flag (alcohol use + self-hatred) because it focused on the positive. Always verify AI summaries against your own reading of the full submission. Address the drinking in the next session and assess whether referral is needed.",
+            "The AI summary is wrong and shouldn't be trusted at all",
+            "The client is exaggerating \u2014 ignore the drinking mention"
+        ],
+        "correct_index": 1
+    },
+    {
+        "id": 35,
+        "scenario": "A client has been working with you for 6 months on their career goals. They've completed most of their worksheets, attended every session, and say they 'feel good about coaching.' But none of their actual goals have been achieved \u2014 no promotion, no new skills, no network growth.",
+        "question": "What metric are you over-indexing on, and what should you track instead?",
+        "options": [
+            "You're tracking the right things \u2014 if the client feels good, that's success",
+            "You're tracking lagging indicators (goal achievement) but over-indexing on process metrics (attendance, completion). The real issue: engagement looks fine but outcomes aren't moving. Need to examine WHY goals aren't progressing \u2014 is the goal wrong, is there a deeper obstacle, or is the coaching not effective?",
+            "You need to track more leading indicators like mood and energy",
+            "You should track the number of worksheets completed as the primary metric"
+        ],
+        "correct_index": 1
+    },
+    {
+        "id": 36,
+        "scenario": "A client has been assigned the same 'weekly reflection' worksheet for 8 weeks. For the first 5 weeks, they completed it thoroughly with 200+ word answers. For the last 3 weeks, their answers have been 1-2 words: 'fine', 'okay', 'same'. They still submit on time.",
+        "question": "According to the Stages of Change model and the principle of 'non-completion as data,' what is likely happening?",
+        "options": [
+            "The client has relapsed \u2014 they need to be confronted about their declining effort",
+            "The client is being lazy \u2014 increase the number of reminders",
+            "The client may be in a plateau or the worksheet itself has become stale. Declining answer depth is data \u2014 it signals either that the reflection is no longer surfacing new insights, or the client is losing motivation. Explore this in session rather than demanding longer answers.",
+            "The client is ready to graduate \u2014 they've said everything they need to"
+        ],
+        "correct_index": 2
+    },
+    {
+        "id": 37,
+        "scenario": "A client hasn't completed any worksheets for 3 weeks straight. They attend sessions but say 'I just didn't get to it' each time. When you ask what's going on, they say 'I don't know, I guess I'm just lazy.'",
+        "question": "Rather than accepting 'lazy' as an explanation, what should the coach explore?",
+        "options": [
+            "Accept it and reduce the number of worksheets going forward",
+            "Treat non-completion as data. Explore: Is the worksheet itself wrong for where they are? Is the timing wrong? Are they in precontemplation about the actual goal? Is there a deeper resistance or fear? Non-completion is often a signal that the coaching approach needs to change, not that the client is defective.",
+            "Tell them they need to commit or coaching won't work",
+            "Assign a different worksheet about laziness"
+        ],
+        "correct_index": 1
+    },
+    {
+        "id": 38,
+        "scenario": "An AI summary flags that a client mentioned 'my partner doesn't think I'm capable of running a business.' The AI categorizes this as a 'red flag' and suggests 'possible emotional abuse.'",
+        "question": "How should you handle this AI-generated interpretation?",
+        "options": [
+            "Tell the client the AI thinks they're being abused",
+            "Trust the AI's assessment and bring up emotional abuse in the next session",
+            "Ignore the AI summary and never look at it again",
+            "Read the full context yourself. The client mentioning their partner's opinion is common in coaching \u2014 the AI has over-interpreted a single data point. Explore the partner dynamic in session using your own coaching judgment, but don't label it 'abuse' based on one worksheet mention."
+        ],
+        "correct_index": 3
+    },
+    {
+        "id": 39,
+        "scenario": "You have a 45-minute coaching session. The client arrives with a complex situation: a difficult conversation they need to have with their boss, anxiety about an upcoming presentation, AND a values conflict about whether to stay in their job.",
+        "question": "How should you allocate the 45 minutes?",
+        "options": [
+            "Try to address all three issues \u2014 give each 15 minutes",
+            "Address the easiest one first to build momentum",
+            "Start with a session agreement: 'You've brought three important things. Which one would make the biggest difference if we resolved it today?' Let the client prioritize, then spend the bulk of the session on that one issue, leaving 5 minutes for action steps.",
+            "Skip the check-in and jump straight into problem-solving to save time"
+        ],
+        "correct_index": 2
+    },
+    {
+        "id": 40,
+        "scenario": "During a session, a client suddenly starts crying and says: 'I've never told anyone this, but my father hit us when we were kids. I've never dealt with it.'",
+        "question": "What is the appropriate coaching response?",
+        "options": [
+            "Continue exploring the memory \u2014 this is important material for coaching",
+            "Acknowledge their courage in sharing, gently pause the coaching, explain that childhood trauma is outside your scope of practice, and offer to refer them to a therapist who specializes in trauma. You can continue coaching on non-trauma goals while they also work with a therapist.",
+            "Assign a thought record worksheet to process the memory",
+            "Tell them they should have dealt with this years ago"
+        ],
+        "correct_index": 1
+    },
+    {
+        "id": 41,
+        "scenario": "A new coach markets themselves as: 'I help anyone and everyone achieve their goals and live their best life. Specializing in career, relationships, health, wellness, spirituality, finances, executive coaching, ADHD, and life transitions.'",
+        "question": "What is the primary problem with this positioning?",
+        "options": [
+            "It's too long \u2014 they should shorten the list",
+            "It's too broad. When you market to everyone, you market to no one. Clients hire coaches who specialize in THEIR specific challenge. The coach should pick ONE niche and go deep.",
+            "They should charge more to compensate for the broad focus",
+            "They need better graphic design on their website"
+        ],
+        "correct_index": 1
+    },
+    {
+        "id": 42,
+        "scenario": "A coach charges $50 per session, working 20 hours per week with 15 clients. They're exhausted, struggling financially, and their clients frequently cancel or no-show.",
+        "question": "What pricing principle is this coach violating, and what is the likely consequence?",
+        "options": [
+            "They should charge by the package, not per session",
+            "They're underpricing. Low prices attract clients who don't value the work, leading to cancellations and disrespect of the coach's time. Raising prices to $150-200/session would attract more committed clients and reduce the coach's workload.",
+            "They should work more hours to make up the difference",
+            "They should add more services to justify the price"
+        ],
+        "correct_index": 1
+    },
+    {
+        "id": 43,
+        "scenario": "A prospect books a discovery call. They're excited and ready to start. The coach says: 'Great, let's start next week! I'll send you a Zoom link.'",
+        "question": "What step is missing from this onboarding process?",
+        "options": [
+            "Nothing is missing \u2014 this is a smooth onboarding",
+            "The coach should have done a background check",
+            "The coach should have sent a contract via a lawyer first",
+            "The coach skipped: sending an intake worksheet before the first session, establishing the coaching agreement (scope, confidentiality, cancellation policy), and confirming payment. These should happen between the discovery call and the first session."
+        ],
+        "correct_index": 3
+    },
+    {
+        "id": 44,
+        "scenario": "A coach posts generic content on Instagram: 'Believe in yourself! #mindset #grind #blessed' They have 50 followers and zero clients have come from social media in 6 months.",
+        "question": "What marketing principle is this coach missing?",
+        "options": [
+            "They need to post more frequently \u2014 at least 3 times per day",
+            "They should run paid ads instead of organic content",
+            "They need to switch to TikTok instead of Instagram",
+            "They're posting generic content with no niche specificity, no proof of expertise, and no value to the reader. The 'give value first' approach means sharing specific, useful content that addresses their ideal client's actual problems \u2014 not motivational platitudes."
+        ],
+        "correct_index": 3
+    },
+    {
+        "id": 45,
+        "scenario": "A coach is deciding whether to offer group coaching or 1:1 coaching for their new 'Career Transition Program.' Their target clients are mid-career professionals who are nervous about changing jobs and feel isolated in their decision.",
+        "question": "Which format is likely more effective, and why?",
+        "options": [
+            "1:1 coaching \u2014 always more effective than group coaching",
+            "Neither \u2014 they should just sell a pre-recorded course",
+            "Group coaching \u2014 these clients feel isolated, and peer learning from others in the same situation would normalize their experience and provide mutual support. It's also more affordable for them and more leveraged for the coach.",
+            "It depends entirely on the coach's preference, not the client profile"
+        ],
+        "correct_index": 2
+    },
+    {
+        "id": 46,
+        "scenario": "A coach offers a '3-month coaching package' that includes: 12 sessions (weekly), email support between sessions, and 'all worksheets included.' The price is $1,200.",
+        "question": "What else should be clearly included or defined in this package?",
+        "options": [
+            "Nothing \u2014 the package is already well-defined",
+            "A free meal with the coach",
+            "A guarantee that the client will achieve their goals",
+            "Session duration (45 min? 60 min?), cancellation policy (how much notice?), response time for emails (within 24 hours? 48?), what happens if the client wants to extend beyond 3 months, and the scope boundary (coaching, not therapy)."
+        ],
+        "correct_index": 3
+    },
+    {
+        "id": 47,
+        "scenario": "A client cancels their session 2 hours before it's scheduled to start. This is the third time in two months. The coach has no cancellation policy.",
+        "question": "What cancellation policy should the coach have established upfront, and how should they handle this situation now?",
+        "options": [
+            "No policy needed \u2014 just be understanding and reschedule",
+            "Establish a 24-hour cancellation policy (cancellations within 24 hours are charged the full session fee). For this situation, have a conversation about the pattern, explain the policy going forward, and charge or not charge for this one at the coach's discretion.",
+            "Charge them double for the cancelled session as punishment",
+            "Drop the client immediately \u2014 three cancellations is too many"
+        ],
+        "correct_index": 1
+    },
+    {
+        "id": 48,
+        "scenario": "A coach gets most of their clients from referrals \u2014 other clients recommend them. The coach has never asked for a referral and doesn't have a formal referral process.",
+        "question": "What is the most effective way to build a referral network as a coach?",
+        "options": [
+            "Wait for referrals to come naturally \u2014 asking is unprofessional",
+            "Pay clients $100 for every referral they send",
+            "After a successful coaching engagement (or at a milestone), ask satisfied clients if they know anyone who could benefit from coaching, and make it easy for them to refer (provide a brief description of your niche they can share). Consider offering a discount for successful referrals.",
+            "Post on social media asking people to refer their friends"
+        ],
+        "correct_index": 2
+    },
+    {
+        "id": 49,
+        "scenario": "A coach offers free 15-minute 'discovery calls' to prospects. Most calls end with the prospect saying 'I'll think about it' and never booking. The coach spends 5 hours per week on these calls with zero conversions.",
+        "question": "What is likely wrong with the discovery call approach, and how should it be improved?",
+        "options": [
+            "The calls are too short \u2014 they should be 60 minutes",
+            "The coach is likely treating the discovery call as a free coaching session rather than a structured conversation about fit. The discovery call should: (1) understand the prospect's challenge, (2) briefly explain how you work, (3) determine if there's a fit, (4) clearly offer the next step (package and price) \u2014 not leave it open-ended.",
+            "The coach should stop offering discovery calls entirely",
+            "The coach should charge for discovery calls"
+        ],
+        "correct_index": 1
+    },
+    {
+        "id": 50,
+        "scenario": "In a group coaching session, one participant (let's call them Alex) dominates the conversation, speaking for 60% of the session time. Two other participants haven't spoken at all.",
+        "question": "How should the coach handle this group dynamic?",
+        "options": [
+            "Gently redirect: 'Alex, thank you for sharing that \u2014 it's really valuable. I want to make sure everyone gets airtime today. Sarah, what's coming up for you as you hear this?' Then actively invite quieter participants.",
+            "Let Alex keep talking \u2014 they're clearly getting value",
+            "Tell Alex to stop talking so much",
+            "End the session early since Alex has covered everything"
+        ],
+        "correct_index": 0
+    },
+    {
+        "id": 51,
+        "scenario": "A coach working with a client from a different cultural background assumes the client's reluctance to make direct eye contact means they're 'avoidant' or 'lacking confidence.'",
+        "question": "What cultural intelligence principle is the coach violating?",
+        "options": [
+            "The coach should force the client to make eye contact to build confidence",
+            "The coach should read a book about the client's culture before the next session",
+            "The coach is interpreting behavior through their own cultural lens. In many cultures, direct eye contact with an authority figure is a sign of respect, not avoidance. The coach should ask rather than assume: 'I notice you often look away when we discuss difficult topics. What does that mean for you?'",
+            "Cultural differences don't matter in coaching \u2014 we're all human"
+        ],
+        "correct_index": 2
+    },
+    {
+        "id": 52,
+        "scenario": "A client has just been laid off from their job of 15 years. They tell you: 'I don't know who I am without this job. It wasn't just a job \u2014 it was my identity. I feel like I've lost myself.'",
+        "question": "Using William Bridges' Transition Model, which phase is the client in, and what coaching approach is appropriate?",
+        "options": [
+            "They're in the 'New Beginnings' phase \u2014 help them envision their new career",
+            "Bridges' model doesn't apply \u2014 this is a career issue, use GROW",
+            "They're in the 'Neutral Zone' \u2014 help them brainstorm new options",
+            "They're in the 'Endings' phase \u2014 they're grieving a loss of identity. Don't rush them to the new beginning. Acknowledge the ending, help them identify what they've lost (identity, routine, community), and eventually move through the neutral zone before pushing for new beginnings."
+        ],
+        "correct_index": 3
+    },
+    {
+        "id": 53,
+        "scenario": "A client says: 'I have a good job, a good marriage, and good health. But I just don't feel happy. Something is missing and I can't figure out what.'",
+        "question": "Using the PERMA model from positive psychology, which element is the client most likely missing?",
+        "options": [
+            "Positive Emotions \u2014 they need to do more things that make them happy",
+            "Accomplishment \u2014 they need to set bigger goals",
+            "Engagement \u2014 they need more flow states at work",
+            "Meaning \u2014 they have engagement and relationships but may lack a sense of purpose or meaning. They're going through the motions of a 'good life' without feeling connected to something larger than themselves."
+        ],
+        "correct_index": 3
+    },
+    {
+        "id": 54,
+        "scenario": "A client is trying to build a new habit of journaling every morning. After 3 days, they stop. They say: 'Every time I sit down to journal, I feel this wave of anxiety and my mind goes blank. Then I avoid it the next day.'",
+        "question": "From a neuroscience-informed coaching perspective, what is happening, and how should you help?",
+        "options": [
+            "They just need more willpower \u2014 push through the anxiety",
+            "They should journal at night instead \u2014 mornings are bad for anxiety",
+            "The blank-mind anxiety is likely an amygdala threat response \u2014 the brain perceives vulnerability (writing feelings = risk). Help them start smaller (3 sentences, not a full page), reduce the perceived threat, and build the habit gradually so the brain associates journaling with safety, not threat.",
+            "Journaling isn't for everyone \u2014 suggest a different habit"
+        ],
+        "correct_index": 2
+    },
+    {
+        "id": 55,
+        "scenario": "You're coaching a newly formed leadership team of 6 people. In the first two sessions, everyone is polite, agrees with each other, and no one challenges anything. The team lead says: 'I think we're really gelling.'",
+        "question": "According to Tuckman's group development stages, which stage is this team in, and what should the coach expect next?",
+        "options": [
+            "Performing \u2014 the team is functioning well and the coach's job is done",
+            "Norming \u2014 the team has established norms and is ready to perform",
+            "Forming \u2014 the team is in the polite, conflict-avoidant stage. The coach should expect 'storming' to come (disagreements, friction, conflict) and should prepare the team for it rather than assuming the harmony is real.",
+            "Adjourning \u2014 the team is wrapping up and transitioning"
+        ],
+        "correct_index": 2
+    },
+    {
+        "id": 56,
+        "scenario": "A coach has been practicing for 2 years with 150 coaching hours. They want to get their ICF credential but aren't sure which level they qualify for.",
+        "question": "Which ICF credential are they likely eligible for, and what are the key requirements?",
+        "options": [
+            "MCC (Master Certified Coach) \u2014 they have enough hours",
+            "PCC (Professional Certified Coach) \u2014 they qualify with 150 hours",
+            "ACC (Associate Certified Coach) \u2014 requires 100+ coaching hours, 10 hours of mentor coaching, 60+ hours of coach-specific training, and passing the ICF exam. They meet the hours requirement for ACC.",
+            "No credential \u2014 they need a university degree in coaching"
+        ],
+        "correct_index": 2
+    },
+    {
+        "id": 57,
+        "scenario": "A client tells you: 'When I'm painting, I lose track of time completely. Hours pass like minutes. I feel completely absorbed and it's the only time I don't worry about anything. But I only do it once a month.'",
+        "question": "What positive psychology concept is the client describing, and what coaching action would you take?",
+        "options": [
+            "They're describing a 'flow state' (Csikszentmihalyi). Flow occurs when challenge matches skill level. Coaching action: explore what barriers prevent more frequent painting and whether elements of flow can be integrated into their daily work.",
+            "They're describing relaxation \u2014 encourage more relaxation techniques",
+            "They're describing mindfulness \u2014 assign a mindfulness worksheet",
+            "They're describing escapism \u2014 this could be unhealthy avoidance"
+        ],
+        "correct_index": 0
+    },
+    {
+        "id": 58,
+        "scenario": "A coach is working with a client whose family comes from a culture where seeking help from a non-family member is considered shameful. The client feels embarrassed about being in coaching and hasn't told their family.",
+        "question": "What is the culturally intelligent way to handle this?",
+        "options": [
+            "Tell the client they need to be proud of seeking coaching \u2014 it shows strength",
+            "Suggest they bring their family to a session so you can explain coaching",
+            "Respect the client's cultural context. Don't push them to disclose. Explore what the shame means to them, acknowledge that seeking outside help carries different weight in different cultures, and let them navigate disclosure on their own terms.",
+            "Tell them their family's cultural beliefs are wrong and limiting"
+        ],
+        "correct_index": 2
+    },
+    {
+        "id": 59,
+        "scenario": "A client is working on building a daily exercise habit. They've been successful for 3 weeks but then miss 4 days in a row due to a family emergency. They tell you: 'I've ruined it. I'm back to square one. There's no point starting again.'",
+        "question": "From a neuroscience and habit-formation perspective, how should you reframe this for the client?",
+        "options": [
+            "They're right \u2014 they need to start over from scratch",
+            "They should wait until their life is stable before trying again",
+            "The neural pathways built over 3 weeks don't disappear in 4 days. The habit isn't ruined \u2014 it was interrupted by a legitimate emergency. The brain's neuroplasticity means restarting is easier than starting fresh. Reframe: 'You didn't lose 3 weeks of progress. You built a foundation, hit a predictable obstacle, and now you're choosing to continue rather than abandon it.'",
+            "They need a completely different approach since this one failed"
+        ],
+        "correct_index": 2
+    },
+    {
+        "id": 60,
+        "scenario": "A coach has been practicing for 5 years and feels stuck in their development. They have read books and taken courses but feel their coaching has not improved in the last year. They ask you what to do.",
+        "question": "What is the most impactful step they can take for their continuing development?",
+        "options": [
+            "Read more coaching books \u2014 knowledge is the key to mastery",
+            "Get a new coaching certification \u2014 more credentials will help",
+            "Take a sabbatical from coaching to recharge",
+            "Engage in coaching supervision or mentor coaching. A certified supervisor can observe their coaching, identify blind spots, and provide specific feedback that self-study cannot. This is also required for ICF credentialing."
+        ],
+        "correct_index": 3
+    }
+]
